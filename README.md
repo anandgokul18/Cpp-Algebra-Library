@@ -7,6 +7,9 @@ The html documentation 'index.html' file is located in the documentation folder 
 - It is very well tested using unit tests using the unit testing framework Catch2 
 - Supports most matrix operations
 
+## Current Supported Operations
+- Matrix multiplication and transpose operations
+
 ## Future Improvements
 - To add additional algebra functions and expand the library to do more operations
 
